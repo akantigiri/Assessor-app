@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.arch.core/core-runtime/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="335266a4ef14fb814f47a1030b685a26ec3cb59f">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.arch.core-core-runtime-2.0.0_2f8b0857ecf868798413e84d493045abac85c4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="dc0d76e4b720926b5ae50385330a67ae19396a6d">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.appcompat-appcompat-1.2.0_497ba07ccde390aa606b6f4f5407f3defe108489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.drawerlayout/drawerlayout/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="fed4556e7df28b94da719ee5bce4655da79143d5">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.drawerlayout-drawerlayout-1.0.0_93e8dc653eec57012e009aaef21121f36ab90edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.activity/activity/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="084ffb68d1c5fe89e7b23887644b90daf80e30e0">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.activity-activity-1.0.0_ad2996d6f71d61da23f43a2d66701b560f4ae79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_e5d851e1f93837e44a8835789930724c6cf39ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.viewpager/viewpager/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="2d5f14ed7ebe7420ea09aad89d2115b20fb27f30">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.viewpager-viewpager-1.0.0_7955dbe0c418424ab200654e6dbcb88a8db16b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/annotation-1.1.0_60ef2f6380db14ce7dd97f760785b88a63aab0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_1926e85a5474d05fdb74226e56c2245be26e2d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.vectordrawable/vectordrawable/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="9010b5b6c4d08280cf41486c6525dea5f3e57044">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.vectordrawable-vectordrawable-1.1.0_59b4d993d9ae9854177d400e007b08689d9cd675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_ca71f845cdae2e433c2b8d54fac3bfef47820ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_ed96712fb0257d605f65011a2c1c068f789e76ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="b3152fc64428c9354344bd89848ecddc09b6f07e">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/core-common-2.1.0_14bbb77c992ffb40c485b6782124580f5df08376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.1.0/c67e7807d9cd6c329b9d0218b2ec4e505dd340b7/lifecycle-common-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="c67e7807d9cd6c329b9d0218b2ec4e505dd340b7">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/lifecycle-common-2.1.0_d35f565ca54df54da421efc19842b44621044d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="1f27220b47669781457de0d600849a5de0e89909">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/collection-1.1.0_ec12e1a46d6f1f4cf3ddcad72ba860a8999f46fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_02f450625b130b2812798aae17226f7d1fed1e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.lifecycle/lifecycle-viewmodel/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="14fd11df2436487169d2b33bb29b0dd600b20cbb">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.lifecycle-lifecycle-viewmodel-2.1.0_0d2a96ed304310e8896bfe8de207803ad07a18bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_c324a27374a01c430d2a745213c7fb4fea201b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_7db7dfb102e2eaff59f59b28c2c78aaca40cd951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.core/core/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="8738d7a81f284de50b6c9877eed2947cc63b44da">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.core-core-1.3.0_855b55923817b609ff3171ea85d6925513417879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.customview/customview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="aae5fb0ee6773486b5e7f2036b336ec1fc3a100d">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.customview-customview-1.0.0_04f337862b7a825eb38841000d5dad4077a89351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.lifecycle/lifecycle-livedata/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="b192265fdb92978ad55a3ff069e9867ab79ab043">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.lifecycle-lifecycle-livedata-2.0.0_5b3302705c3bd243da82f990f4d520b67c2821d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.vectordrawable/vectordrawable-animated/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="867f6b6a21b8459f4ec90d6c4d77ac8081e2fb90">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.vectordrawable-vectordrawable-animated-1.1.0_92f52413bdeab42df9b78c9c06654a4de6f6ddaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.loader/loader/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="8110ba5ec44be61aa96f8bd8d1c57eed0efdb7b9">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.loader-loader-1.0.0_4a1c33d92d035dd3f07b6d379414e468e8b86c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.lifecycle/lifecycle-runtime/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="a2c0ae06b20fb3c2a7db2b06116823a80b1cd9b1">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.lifecycle-lifecycle-runtime-2.1.0_691071d710d24eb4fb665b1a4cf718e221d88e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_7115f01f8da94dd8bdf5f9f800e404e524b83cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.savedstate/savedstate/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="63d98a233da35ccfec60793d27309506ce16d7c3">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.savedstate-savedstate-1.0.0_0a143b1241a87441301d5400147959ff27b8f13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_edae9542d829879fe1a74a29c3ac9e352608113d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.interpolator/interpolator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="39eb18023267bf656e249fbb4adb1b7622b01d81">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.interpolator-interpolator-1.0.0_0ee97884f8723ca56e50692dd9893599ab15dae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/glide-3.6.1_c0ee2efa039133cef04464b8cb747c35015cd502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.fragment/fragment/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="f03127ac71c1f2f8f2061f286eb7f875e756e6b4">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.fragment-fragment-1.1.0_f4f515d3da964eacc99ba4a6059f40b2463aaae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.lifecycle/lifecycle-livedata-core/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="c1ca9dc19b3f96bb9473a9357c1cdc38a9c5b347">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.lifecycle-lifecycle-livedata-core-2.0.0_62fa4825959cdbce822c9f8fae21ea7100150050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.cursoradapter/cursoradapter/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="f6c8866428c74f1bc105549f51a10143bf18dd1f">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.cursoradapter-cursoradapter-1.0.0_978c77b2b31406f2525e285db946d25c05d4e684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_3739faaee758f111d9c709840c9143f1254685a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat-resources/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="75efe25baea270e17bc4686caaed617d0a0e0311">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.appcompat-appcompat-resources-1.2.0_d8470f5aa7ff00d8737e2837e1dafc7485e51489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_800a6eb6b28e17b86038caa57c4d9d91f8491fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.versionedparcelable/versionedparcelable/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="06d7c35b49dba074280189798a8acc18447a0f0a">
+        <dex dex="/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/pre-dexed/debug/androidx.versionedparcelable-versionedparcelable-1.1.0_069fb225512ecef960dcd38cfaaa4e7f83fdd395.jar" />
+    </item>
+
+</items>

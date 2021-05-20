@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 110,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 110,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 107,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 107,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 112,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 112,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 87,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 87,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 105,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 105,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 114,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 114,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 79,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 79,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 76,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 76,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 90,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 90,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 92,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 92,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 94,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 94,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 93,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 93,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 99,
+                    "endOffset": 1371
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1276,
+                        "endColumn": 99,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1376,
+                    "endColumn": 92,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endColumn": 92,
+                        "endOffset": 1464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 94,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1469,
+                        "endColumn": 94,
+                        "endOffset": 1559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 93,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1564,
+                        "endColumn": 93,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endColumn": 90,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 90,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 90,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endColumn": 90,
+                        "endOffset": 1835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endColumn": 83,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 83,
+                        "endOffset": 1919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endColumn": 108,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endColumn": 108,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 109,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 109,
+                        "endOffset": 2138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 100,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2143,
+                        "endColumn": 100,
+                        "endOffset": 2239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 109,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2244,
+                        "endColumn": 109,
+                        "endOffset": 2349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endColumn": 117,
+                    "endOffset": 2467
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2354,
+                        "endColumn": 117,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2472,
+                    "endColumn": 107,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2472,
+                        "endColumn": 107,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 162,
+                    "endOffset": 2738
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2580,
+                        "endColumn": 162,
+                        "endOffset": 2738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2743,
+                    "endColumn": 101,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2743,
+                        "endColumn": 101,
+                        "endOffset": 2840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2845,
+                    "endColumn": 281,
+                    "endOffset": 3122
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 281,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3127,
+                    "endColumn": 84,
+                    "endOffset": 3207
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2845,
+                        "endColumn": 84,
+                        "endOffset": 2925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3212,
+                    "endColumn": 100,
+                    "endOffset": 3308
+                },
+                "from": {
+                    "file": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.core/core/1.3.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

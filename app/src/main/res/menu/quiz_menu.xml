@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="@string/sign_out"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/setquiz"
+        android:title="Set Quiz"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/postquiz"
+        android:title="Post Quiz"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/settime"
+        android:title="Set Time"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/posttime"
+    android:title="Post Time"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/deletequiz"
+        android:title="Delete Quiz"
+        app:showAsAction="never"
+        />
+</menu>

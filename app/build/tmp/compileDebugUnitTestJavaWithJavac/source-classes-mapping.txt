@@ -1,0 +1,2 @@
+com/google/firebase/udacity/friendlychat/ExampleUnitTest.java
+ com.google.firebase.udacity.friendlychat.ExampleUnitTest

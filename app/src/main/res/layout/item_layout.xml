@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+
+    android:background="@color/colorBlack"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:id="@+id/homet1a"
+        tools:text="New to Hyderabad??. "
+        android:textColor="@color/colorTitle"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold"
+        android:paddingLeft="32dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:id="@+id/homet1b"
+        tools:text="New to Hyderabad??. "
+        android:textColor="@color/colorTitle"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:paddingLeft="32dp"
+        android:paddingBottom="8dp"
+        android:layout_marginBottom="2dp"
+
+        />
+
+</LinearLayout>

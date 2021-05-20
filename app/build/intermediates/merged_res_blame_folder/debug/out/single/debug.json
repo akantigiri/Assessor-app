@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_blue.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_blue.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_progress_track.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/progress_track.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_myapplication.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_myapplication.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_black.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_black.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_quiz.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_b.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/b.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_log.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/log.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_back.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_item_layout.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/menu_quiz_menu.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/menu/quiz_menu.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_markactivity.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_markactivity.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_nav.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_nav.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_item_message.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_c.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/c.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/menu_sec_menu.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/menu/sec_menu.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_yellow.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_yellow.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_second.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/menu_poll_menu.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/menu/poll_menu.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_d.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/d.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/menu_nav_menu.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_red.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_red.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_button_selector.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_a.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/a.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_backgrnd.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/backgrnd.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_question_layout.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/layout/question_layout.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_zimb.xml.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/zimb.xml"
+    }
+]

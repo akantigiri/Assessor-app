@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/com.google.android.material/material/1.3.0/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/exploded-aar/androidx.appcompat/appcompat/1.2.0/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

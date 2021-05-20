@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/activity_horizontal_margin"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+android:background="@color/colorTitle"
+    android:orientation="vertical">
+
+    <TextView
+            android:id="@+id/ques"
+            android:layout_width="match_parent"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginTop="0.1dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp"
+            android:paddingRight="16dp"
+        android:paddingBottom="8dp"
+        android:background="@color/colorBlack"
+            android:textColor="@color/colorTitle"
+            tools:text="Name"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opa"
+        android:orientation="horizontal"
+        android:background="@color/colorBlack"
+        android:focusable="false"
+        android:focusableInTouchMode="false">
+        <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/opad">
+
+
+        <CheckBox
+            android:id="@+id/opac"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:buttonTint="@color/colorTitle"
+            android:textColor="@color/colorTitle"
+            android:focusable="false"
+            android:focusableInTouchMode="false"/>
+        </LinearLayout>
+        <TextView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/opat"
+           tools:text="Option-A"
+            android:paddingTop="4dp"
+            android:paddingBottom="8dp"
+            android:textColor="@color/colorTitle"
+            android:focusable="false"
+            android:focusableInTouchMode="false"/>
+
+
+    </LinearLayout> <LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/opb"
+    android:orientation="horizontal"
+    android:background="@color/colorBlack"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/opbd">
+    <CheckBox
+        android:id="@+id/opbc"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:buttonTint="@color/colorTitle"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/></LinearLayout>
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opbt"
+        tools:text="Option-A"
+        android:paddingTop="4dp"
+        android:paddingBottom="8dp"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+
+</LinearLayout> <LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/opc"
+    android:orientation="horizontal"
+    android:background="@color/colorBlack"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcd">
+    <CheckBox
+        android:id="@+id/opcc"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:buttonTint="@color/colorTitle"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/></LinearLayout>
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opct"
+        tools:text="Option-A"
+        android:paddingTop="4dp"
+        android:paddingBottom="8dp"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+
+</LinearLayout> <LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/opd"
+    android:orientation="horizontal"
+    android:background="@color/colorBlack"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/opdd">
+    <CheckBox
+        android:id="@+id/opdc"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:buttonTint="@color/colorTitle"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false" /></LinearLayout>
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opdt"
+        tools:text="Option-A"
+        android:paddingTop="4dp"
+        android:paddingBottom="8dp"
+        android:textColor="@color/colorTitle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+</LinearLayout>
+
+
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcrctt"
+        tools:text="Option-A"
+        android:textColor="@color/colorTitle"
+        android:background="@color/colorBlack"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
