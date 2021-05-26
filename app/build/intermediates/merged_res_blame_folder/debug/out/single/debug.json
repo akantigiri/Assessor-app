@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_blue.png.flat",
-        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_blue.png"
-    },
-    {
         "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_progress_track.xml.flat",
         "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/progress_track.xml"
+    },
+    {
+        "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/drawable_logo_blue.png.flat",
+        "source": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/src/main/res/drawable/logo_blue.png"
     },
     {
         "merged": "/Users/akantigirinandan/AndroidStudioProjects/FriendlyChat/app/build/intermediates/res/merged/debug/layout_activity_myapplication.xml.flat",
