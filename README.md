@@ -6,6 +6,11 @@ evaluation. Assessor implements seperate channels for each course and each cours
 * Android Studio(IDE) - 4.1 or later
 * JDK
 * Other required configurations.
+## Instructions to downlaod the app
+* Download app-debug.apk file on your phone
+* Then open it and allow to install
+* Now you can run assessor app on your phone
+
 ## Instructions to run
 * Clone the repository
 ```
