@@ -14,6 +14,20 @@ git clone https://github.com/akantigiri/Assessor.git
 * Import the project on Android Studio.
 * You can choose to run the application either by connecting a physical device via USB or run it on an AVD (Android Virtual Device) with the help of an Android Emulator.
 * Run the application on your configured device.
+## Instructions to view code on github itself
+* For Java Files
+* app->src->main->java->com->google->firebase->udacity->friendlychat
+* For XML files
+* app->src->main->res->layout
+* For Menu files
+* app->src->main->res->menu
+* Most of the remaining files are also present in res folder only
+```
+git clone https://github.com/akantigiri/Assessor.git
+```
+* Import the project on Android Studio.
+* You can choose to run the application either by connecting a physical device via USB or run it on an AVD (Android Virtual Device) with the help of an Android Emulator.
+* Run the application on your configured device.
 ## License
 ```
 Copyright Akanti Giri
