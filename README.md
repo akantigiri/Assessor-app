@@ -22,12 +22,6 @@ git clone https://github.com/akantigiri/Assessor.git
 * For Menu files
 * app->src->main->res->menu
 * Most of the remaining files are also present in res folder only
-```
-git clone https://github.com/akantigiri/Assessor.git
-```
-* Import the project on Android Studio.
-* You can choose to run the application either by connecting a physical device via USB or run it on an AVD (Android Virtual Device) with the help of an Android Emulator.
-* Run the application on your configured device.
 ## License
 ```
 Copyright Akanti Giri
